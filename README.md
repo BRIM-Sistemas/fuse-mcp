@@ -1,6 +1,6 @@
 # Fuse MCP
 
-Skill para agentes de Inteligência Artificial interagirem diretamente com o ERP **Fuse** através do Model Context Protocol (MCP): consulta de contexto, alternância de empresas da holding, catálogo de produtos e serviços, cadastro de participantes (clientes e fornecedores), financeiro (contas a pagar, contas a receber, saldos de caixas e bancos, criação e liquidação de títulos) e relatórios/KPIs executivos.
+Skill para agentes de Inteligência Artificial interagirem diretamente com o ERP **Fuse** através do Model Context Protocol (MCP): consulta das empresas que a chave acessa, catálogo de produtos e serviços, cadastro de participantes (clientes e fornecedores), financeiro (contas a pagar, contas a receber, caixas e bancos, centros de custo, criação, liquidação e cancelamento de títulos) e relatórios/KPIs executivos.
 
 ```bash
 npx skills add BRIM-Sistemas/fuse-mcp
