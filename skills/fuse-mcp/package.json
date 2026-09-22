@@ -1,0 +1,7 @@
+{
+  "name": "fuse-mcp-bridge",
+  "private": true,
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.1"
+  }
+}
